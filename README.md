@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahiya</h1>
 <h3 align="center">A passionate Mobile developer From Egypt</h3>
 
-- 🌱 I’m currently learning **Css , kotlin , HTML , SQL**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **yahiaosama1292@gmail.com**
 
